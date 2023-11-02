@@ -1,6 +1,5 @@
-# Hi, I’m Davide Capone
+## I’m Davide Capone
 - 👀 I’m interested in **Big Data, Statistics Science and Machine Learning**
-- 🌱 I’m studying **Computer Science** at the University (uniud)
 - How to reach me: davidecapone2304@gmail.com
 - visit my Linkedin profile: www.linkedin.com/in/capone-davide
 
