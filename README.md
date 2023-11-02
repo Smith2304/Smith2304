@@ -1,5 +1,5 @@
 ## I’m Davide Capone
-- 👀 I’m interested in **Big Data, Statistics Science and Machine Learning**
+- 👀 I’m interested in **Machine Learning algorithms and Big Data**
 - my Linkedin profile: www.linkedin.com/in/capone-davide
 
 <!---
